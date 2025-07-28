@@ -1,0 +1,992 @@
+text,text2,mood,energy
+I'm feeling really happy today, the sun is shining and everything is going well!,Happy,High
+Just got some great news, I'm ecstatic and full of energy!,Happy,High
+Enjoying a calm evening at home, feeling peaceful.,Happy,Medium
+Had a fantastic workout, I feel so alive and ready for anything.,Happy,High
+Spending time with friends, feeling lighthearted and joyful.,Happy,Medium
+So excited for the weekend! Can't wait to relax.,Happy,Medium
+Woke up feeling refreshed and optimistic.,Happy,High
+Feeling good, just taking it easy.,Happy,Low
+This movie made me so happy, I'm giggling like a child.,Happy,High
+A quiet moment of contentment, just enjoying the silence.,Happy,Low
+Feeling quite sad after watching that movie, it was a real tear-jerker.,Sad,Low
+I'm so down today, nothing seems to be going right.,Sad,Low
+Feeling melancholic, just want to be alone.,Sad,Low
+Lost a loved one, feeling immense grief and emptiness.,Sad,Very Low
+Just tired of everything, wish I could just disappear.,Sad,Very Low
+Feeling a bit gloomy, perhaps the weather is getting to me.,Sad,Medium
+Had a rough day at work, feeling drained.,Sad,Low
+Missing my family a lot today, feeling a bit homesick.,Sad,Low
+The news was quite depressing, feeling disheartened.,Sad,Medium
+Feeling a sense of quiet despair, but trying to hold on.,Sad,Low
+I'm absolutely furious right now, can't believe what just happened!,Angry,High
+This is so frustrating, I could just scream!,Angry,High
+Feeling irritated by all the noise around me.,Angry,Medium
+Someone cut me off in traffic, I'm so mad!,Angry,High
+Can't stand this situation anymore, my blood is boiling.,Angry,High
+Feeling resentful about past events, it's eating me up.,Angry,Medium
+The injustice of it all makes me so angry.,Angry,High
+Having a heated discussion, feeling very argumentative.,Angry,High
+This constant delay is making me cross.,Angry,Medium
+Feeling a low rumble of anger, just trying to keep it together.,Angry,Low
+Just feeling okay, nothing special happening.,Neutral,Medium
+Routine day, not much to report.,Neutral,Medium
+Sitting and observing, no particular emotion.,Neutral,Low
+Working on a task, purely focused.,Neutral,Medium
+Just finished my meal, feeling content and full.,Neutral,Low
+Waiting for the bus, just passing time.,Neutral,Low
+Reading a book, absorbed in the story but not emotional.,Neutral,Medium
+Listening to some background music, just chilling.,Neutral,Low
+Attending a meeting, taking notes.,Neutral,Medium
+Just existing, no strong feelings either way.,Neutral,Low
+Feeling anxious about the upcoming presentation, my heart is racing.,Anxious,High
+Worried about the future, can't seem to relax.,Anxious,Medium
+Feeling a bit stressed about deadlines.,Anxious,Medium
+My mind is racing with 'what ifs', feeling overwhelmed.,Anxious,High
+A knot in my stomach, anticipating bad news.,Anxious,Low
+Feeling restless and on edge.,Anxious,High
+Slightly uneasy about going into a new environment.,Anxious,Medium
+Can't focus, too many worries swirling around.,Anxious,Medium
+Feeling jumpy, every little noise makes me startle.,Anxious,High
+A low hum of worry in the background, making it hard to relax.,Anxious,Low
+I'm so happy I could burst! What a wonderful day.,Happy,High
+Feeling very low after a stressful week.,Sad,Low
+This traffic is making me incredibly angry.,Angry,High
+Just observing the clouds, feeling calm.,Neutral,Medium
+My stomach feels uneasy about tomorrow's exam.,Anxious,Medium
+Thrilled with the results, absolutely ecstatic!,Happy,High
+Feeling utterly exhausted and defeated.,Sad,Very Low
+I'm seething with rage, can't believe their audacity.,Angry,High
+Simply existing, no particular thoughts.,Neutral,Low
+A constant buzzing worry in my head.,Anxious,High
+Grinning from ear to ear, life is good.,Happy,High
+Feeling heavy-hearted and tearful.,Sad,Low
+That comment really annoyed me, I'm quite cross.,Angry,Medium
+Just focusing on my breathing, trying to be present.,Neutral,Low
+My palms are sweating, I'm so nervous.,Anxious,High
+Overjoyed by the news, I'm practically floating.,Happy,High
+Can't shake this feeling of despair.,Sad,Very Low
+I'm absolutely livid about the decision.,Angry,High
+Listening to soft music, feeling peaceful.,Neutral,Low
+Feeling a sense of dread about the future.,Anxious,Medium
+Radiating positivity, full of life!,Happy,High
+Lost all motivation, just want to stay in bed.,Sad,Very Low
+How dare they! I'm completely outraged.,Angry,High
+Just got up, still a bit groggy.,Neutral,Low
+My heart is pounding, filled with apprehension.,Anxious,High
+Giddy with excitement, boundless energy!,Happy,High
+A deep ache in my soul, feeling lost.,Sad,Very Low
+I'm about to explode with anger!,Angry,High
+Taking a walk, enjoying the quiet moment.,Neutral,Medium
+Restless and jumpy, can't sit still.,Anxious,High
+Laughing out loud, everything is hilarious!,Happy,High
+Feeling utterly dejected, no hope left.,Sad,Very Low
+My blood is boiling, I'm so mad right now.,Angry,High
+Just finished eating, feeling satisfied.,Neutral,Low
+Butterflies in my stomach, anticipating the worst.,Anxious,Medium
+Singing along to my favorite song, full of joy!,Happy,High
+The weight of the world feels heavy on my shoulders.,Sad,Low
+Fuming about the injustice, absolutely livid.,Angry,High
+Sitting quietly, observing my surroundings.,Neutral,Low
+My mind is racing, can't calm down.,Anxious,High
+Feeling blessed and grateful for everything.,Happy,Medium
+A profound sadness has washed over me.,Sad,Low
+Ready to argue, feeling combative.,Angry,High
+Just doing my daily chores, nothing special.,Neutral,Medium
+Constantly checking my phone, worried about updates.,Anxious,Medium
+Beaming with pride, feeling on top of the world.,Happy,High
+Completely drained, can't even think straight.,Sad,Very Low
+Filled with resentment and bitterness.,Angry,Medium
+Watching TV, just passing the time.,Neutral,Low
+A persistent worry that won't go away.,Anxious,Low
+Skipping around, so much energy!,Happy,High
+Crying endlessly, can't stop the tears.,Sad,Very Low
+My temper is flaring, can't control it.,Angry,High
+Thinking about dinner, feeling hungry.,Neutral,Medium
+My jaw is clenched, feeling tense.,Anxious,Medium
+Chirpy and optimistic, a great start to the day.,Happy,High
+Feeling heartbroken, the pain is unbearable.,Sad,Very Low
+Infuriated by the incompetence, utterly disgusted.,Angry,High
+Just returned home, feeling relaxed.,Neutral,Low
+Nervous about meeting new people.,Anxious,Medium
+Over the moon with joy, practically dancing!,Happy,High
+Drowning in sorrow, overwhelmed by grief.,Sad,Very Low
+Filled with rage and ready to confront.,Angry,High
+Processing information, feeling analytical.,Neutral,Medium
+My hands are clammy, filled with dread.,Anxious,High
+Ecstatic and buzzing with excitement!,Happy,High
+A heavy cloud of sadness hangs over me.,Sad,Low
+Incensed by the blatant disrespect.,Angry,High
+Just relaxing on the couch, no plans.,Neutral,Low
+Pacing back and forth, feeling agitated.,Anxious,High
+Glee and delight fill my heart.,Happy,High
+Mourning a loss, feeling immense pain.,Sad,Very Low
+Exploding with fury, cannot hold back.,Angry,High
+Contemplating life, feeling philosophical.,Neutral,Medium
+My breath is shallow, consumed by fear.,Anxious,High
+Exuberant and full of zest for life!,Happy,High
+A quiet, persistent ache in my chest.,Sad,Low
+Ready to snap, feeling on edge.,Angry,High
+Taking a nap, feeling sleepy.,Neutral,Low
+My heart is racing, can't catch my breath.,Anxious,High
+Elated beyond measure, grinning widely.,Happy,High
+Feeling utterly broken and shattered.,Sad,Very Low
+Burning with indignation, can't stand it.,Angry,High
+Just woke up, feeling a bit disoriented.,Neutral,Low
+A constant knot in my stomach, pure anxiety.,Anxious,High
+Bubbling with happiness, full of pep!,Happy,High
+A deep sense of melancholic longing.,Sad,Low
+Fiercely protective and aggressive.,Angry,High
+Observing the world go by, feeling detached.,Neutral,Low
+Worried sick, can't think about anything else.,Anxious,High
+Walking on sunshine, everything feels bright.,Happy,High
+Feeling utterly drained, just want to sleep forever.,Sad,Very Low
+Raging against the machine, so fed up.,Angry,High
+Cleaning the house, feeling productive.,Neutral,Medium
+My thoughts are spinning, panicking.,Anxious,High
+Joyful and spirited, ready for adventure!,Happy,High
+Lost in thought, feeling a profound sorrow.,Sad,Low
+Hostile and confrontational, ready for a fight.,Angry,High
+Eating a snack, feeling content.,Neutral,Low
+Tense shoulders, feeling the pressure.,Anxious,Medium
+Feeling euphoric, everything is perfect!,Happy,High
+A wave of despair washing over me.,Sad,Very Low
+Seething quietly, simmering anger.,Angry,Medium
+Browse the internet, casually scrolling.,Neutral,Medium
+Heart pounding with apprehension, can't relax.,Anxious,High
+Feeling blessed and truly content.,Happy,Medium
+A tear silently falling down my cheek.,Sad,Low
+Infuriated by the sheer idiocy.,Angry,High
+Just existing, no strong feelings.,Neutral,Low
+My mind is replaying negative scenarios.,Anxious,Medium
+Overflowing with happiness, so much to celebrate!,Happy,High
+Feeling utterly miserable and alone.,Sad,Very Low
+Ready to lash out, feeling aggressive.,Angry,High
+Doing some light reading, just chilling.,Neutral,Low
+Feeling a low hum of worry in the background.,Anxious,Low
+Jubilant and triumphant, a fantastic victory!,Happy,High
+Heavy-hearted and grieving a loss.,Sad,Very Low
+Explosive anger, can't control myself.,Angry,High
+Taking a break, feeling bored.,Neutral,Low
+Feeling overwhelmed by all the possibilities.,Anxious,Medium
+Beaming, everything feels right in the world.,Happy,High
+A profound emptiness, feeling hollow.,Sad,Very Low
+My fists are clenched, so much pent-up rage.,Angry,High
+Just working on a side project, focused.,Neutral,Medium
+Nervously tapping my foot, can't settle down.,Anxious,High
+Feeling ecstatic and full of light!,Happy,High
+Burdened by sadness, can't find relief.,Sad,Low
+Absolutely disgusted by the behavior.,Angry,High
+Zoning out, just letting my mind wander.,Neutral,Low
+A constant feeling of unease.,Anxious,Low
+Grateful for small mercies, feeling warm inside.,Happy,Medium
+Deeply hurt and betrayed.,Sad,Very Low
+Seeing red, can't think straight with this anger.,Angry,High
+Going through the motions, feeling numb.,Neutral,Low
+My heart is sinking with worry.,Anxious,Medium
+Filled with joy and optimism for the future.,Happy,High
+A sense of quiet desperation.,Sad,Low
+Furious about the broken promise.,Angry,High
+Just watching a documentary, learning something new.,Neutral,Medium
+Feeling an internal tremor, on edge.,Anxious,High
+Smiling for no reason, just pure happiness.,Happy,High
+Lost in a sea of despair, no way out.,Sad,Very Low
+Boiling mad, ready to snap at anyone.,Angry,High
+Just having a coffee, relaxing.,Neutral,Low
+My chest feels tight, struggling to breathe.,Anxious,High
+Feeling cheerful and bright.,Happy,Medium
+Wallowing in self-pity, can't move forward.,Sad,Low
+Outraged by the unfairness of it all.,Angry,High
+Washing dishes, feeling meditative.,Neutral,Low
+Restless energy, can't unwind.,Anxious,High
+Bouncing off the walls, so much energy!,Happy,High
+A deep, lingering sadness in my heart.,Sad,Very Low
+Fuming and muttering to myself.,Angry,Medium
+Waiting for a call, feeling expectant.,Neutral,Medium
+Every small sound makes me jump, on high alert.,Anxious,High
+Pure bliss, feeling absolutely wonderful.,Happy,High
+The sorrow is overwhelming, can't bear it.,Sad,Very Low
+My voice is rising, feeling incredibly angry.,Angry,High
+Looking out the window, observing.,Neutral,Low
+A sense of impending doom.,Anxious,High
+Feeling light as a feather, so much joy!,Happy,High
+Wishing I could disappear, feeling so alone.,Sad,Very Low
+Seeing red, ready to erupt.,Angry,High
+Just scrolling social media, mindlessly.,Neutral,Low
+My thoughts are spiraling, can't stop them.,Anxious,High
+Vibrant and alive, full of positive energy!,Happy,High
+A heavy heart, burdened by grief.,Sad,Very Low
+My jaw is tight, ready to confront.,Angry,High
+Taking a break, feeling nothing much.,Neutral,Low
+Feeling jumpy and paranoid.,Anxious,High
+Overflowing with happiness, can't contain it!,Happy,High
+A quiet sadness has settled in.,Sad,Low
+Absolutely furious at the situation.,Angry,High
+Just existing, no strong feelings.,Neutral,Low
+My breath is short, feeling very panicky.,Anxious,High
+Filled with immense joy and gratitude.,Happy,High
+Profoundly sad, can't stop crying.,Sad,Very Low
+Utterly enraged by the betrayal.,Angry,High
+Doing mundane tasks, feeling indifferent.,Neutral,Medium
+My mind is fixated on negative thoughts.,Anxious,Medium
+Feeling incredibly blessed and content.,Happy,Medium
+A sense of melancholic peace.,Sad,Low
+Ready to burst with anger!,Angry,High
+Just taking notes, paying attention.,Neutral,Medium
+Trembling with nerves, can't control it.,Anxious,High
+Beaming from ear to ear, life is great!,Happy,High
+Lost in sorrow, can't find my way.,Sad,Very Low
+My temper is soaring, can't hold back.,Angry,High
+Listening to a podcast, just chilling.,Neutral,Low
+A persistent feeling of unease.,Anxious,Low
+Dancing with joy, so much happiness!,Happy,High
+Feeling utterly desolate and heartbroken.,Sad,Very Low
+Incensed by the disrespect shown.,Angry,High
+Simply sitting, observing the world.,Neutral,Low
+My heart is racing, filled with terror.,Anxious,High
+Euphoric and absolutely thrilled!,Happy,High
+A deep sense of emptiness inside.,Sad,Very Low
+My blood runs cold with anger.,Angry,High
+Reading a book, absorbed in the story.,Neutral,Medium
+Feeling a low thrum of anxiety.,Anxious,Low
+Giddy with delight, can't stop smiling!,Happy,High
+A wave of melancholy washing over me.,Sad,Low
+Fuming with indignation, boiling inside.,Angry,High
+Just had a shower, feeling refreshed.,Neutral,Medium
+My thoughts are racing, can't sleep.,Anxious,High
+Radiating happiness, everything is perfect!,Happy,High
+Consuming sadness, cannot escape it.,Sad,Very Low
+I'm so mad, I could break something!,Angry,High
+Looking at the ceiling, thinking about nothing.,Neutral,Low
+Feeling a constant tightness in my chest.,Anxious,Medium
+Filled with cheerfulness and hope.,Happy,Medium
+Overwhelmed by sadness, struggling to cope.,Sad,Very Low
+Raging with fury, uncontrollable anger.,Angry,High
+Doing some light stretching, feeling relaxed.,Neutral,Medium
+My mind is replaying worries over and over.,Anxious,High
+Absolutely buzzing with excitement!,Happy,High
+A quiet sadness that lingers.,Sad,Low
+My jaw is clenched, ready for a confrontation.,Angry,High
+Just sitting quietly, no particular mood.,Neutral,Low
+Pacing nervously, can't settle down.,Anxious,High
+Joyful and energetic, ready for anything!,Happy,High
+A profound sense of loneliness.,Sad,Very Low
+Burning with resentment, can't forgive.,Angry,Medium
+Drinking a cup of tea, feeling calm.,Neutral,Medium
+Feeling very jumpy and on edge.,Anxious,High
+text,mood,energy
+Feeling absolutely fantastic today, full of life and laughter.,Happy,High
+A deep melancholy has settled in, hard to shake off.,Sad,Low
+The sheer incompetence makes me want to scream in frustration.,Angry,High
+Just observing the rain outside, a peaceful moment.,Neutral,Low
+My heart is racing, filled with a nameless dread.,Anxious,High
+Grinning uncontrollably, life is just perfect!,Happy,High
+Completely devoid of energy, just want to curl up and disappear.,Sad,Very Low
+I'm seeing red, everything feels like an attack.,Angry,High
+Processing some thoughts, a quiet internal monologue.,Neutral,Medium
+A constant hum of worry in the background of my mind.,Anxious,Medium
+Radiant with happiness, can't stop smiling.,Happy,High
+Feeling utterly dejected, like a grey cloud follows me.,Sad,Very Low
+My blood is boiling, pure indignation.,Angry,High
+Just finished dinner, feeling satiated and relaxed.,Neutral,Low
+My stomach is churning with nerves about the interview.,Anxious,High
+Bubbling with excitement, I'm practically bouncing!,Happy,High
+A heavy sadness weighing down my chest.,Sad,Low
+Fuming about the unfairness, can't believe it.,Angry,High
+Listening to a podcast, just absorbing information.,Neutral,Medium
+Restless energy, can't sit still for a moment.,Anxious,High
+Chirpy and full of positive vibes, it's a great day!,Happy,High
+Drowning in a sea of despair, no light anywhere.,Sad,Very Low
+Outraged by the sheer audacity, absolutely livid.,Angry,High
+Organizing my desk, feeling methodical.,Neutral,Medium
+My palms are sweating, anticipating bad news.,Anxious,High
+Overjoyed by the good news, floating on air!,Happy,High
+A profound sense of grief has settled in.,Sad,Very Low
+I'm about to explode with anger, don't push me.,Angry,High
+Just existing, no strong feelings or thoughts.,Neutral,Low
+A low, persistent hum of anxiety deep inside.,Anxious,Low
+Giddy with happiness, skipping around the house.,Happy,High
+Feeling utterly hopeless, nothing seems to matter.,Sad,Very Low
+Infuriated by the slow progress, completely frustrated.,Angry,High
+Watching a documentary, learning new things.,Neutral,Medium
+My mind is racing, filled with 'what ifs'.,Anxious,High
+Singing loudly, feeling incredibly joyful!,Happy,High
+The sorrow is unbearable, wishing for peace.,Sad,Very Low
+Filled with resentment and bitterness, can't let it go.,Angry,Medium
+Contemplating the meaning of life, feeling thoughtful.,Neutral,Medium
+My breath is shallow, a sense of panic rising.,Anxious,High
+Beaming with pride, feeling successful and fulfilled.,Happy,High
+A heavy heart, burdened by overwhelming sadness.,Sad,Very Low
+Ready to argue and confront, feeling combative.,Angry,High
+Cleaning the house, focused on the task.,Neutral,Medium
+Feeling a knot in my stomach, anticipating problems.,Anxious,Medium
+Elated and full of boundless energy!,Happy,High
+Lost in profound sadness, can't see a way out.,Sad,Very Low
+Exploding with rage, no holding back now.,Angry,High
+Just finished a run, feeling tired but calm.,Neutral,Low
+My jaw is clenched, feeling tense and worried.,Anxious,Medium
+Bubbling with enthusiasm, ready for anything!,Happy,High
+Feeling deeply hurt and betrayed, the pain is real.,Sad,Very Low
+My temper is flaring, about to lose it.,Angry,High
+Reading the news, absorbing information neutrally.,Neutral,Medium
+A constant sense of dread about tomorrow.,Anxious,Medium
+Vibrant and alive, full of positive energy!,Happy,High
+A quiet despair that won't go away.,Sad,Low
+Fiercely protective and ready to defend myself.,Angry,High
+Listening to white noise, trying to clear my mind.,Neutral,Low
+My heart is pounding, filled with intense fear.,Anxious,High
+Walking on sunshine, everything feels bright and hopeful.,Happy,High
+Completely drained, can't even lift a finger.,Sad,Very Low
+Raging against the injustice, so fed up with it all.,Angry,High
+Making a grocery list, feeling practical.,Neutral,Medium
+My thoughts are spinning out of control, feeling overwhelmed.,Anxious,High
+Joyful and spirited, ready for new adventures!,Happy,High
+A deep ache in my soul, feeling utterly alone.,Sad,Very Low
+Hostile and confrontational, ready for a fight.,Angry,High
+Eating a light meal, feeling comfortable.,Neutral,Low
+Tense and on edge, every little sound startles me.,Anxious,High
+Feeling euphoric, as if I'm floating on clouds.,Happy,High
+A wave of sheer despair washing over me.,Sad,Very Low
+Seething quietly, simmering with repressed anger.,Angry,Medium
+Browse casually, no particular focus.,Neutral,Medium
+Constantly checking my watch, feeling agitated.,Anxious,High
+Radiating positivity, a truly good day.,Happy,High
+A silent tear rolling down my cheek, profound sadness.,Sad,Low
+Infuriated by the blatant disregard, absolutely disgusted.,Angry,High
+Just existing, going through the motions.,Neutral,Low
+A persistent worry that I can't shake off.,Anxious,Low
+Jubilant and celebrating success, so proud!,Happy,High
+Heavy-hearted and grieving a significant loss.,Sad,Very Low
+Explosive anger, can't be contained any longer.,Angry,High
+Taking a short break, feeling a bit bored.,Neutral,Low
+Feeling overwhelmed by too many choices.,Anxious,Medium
+Beaming with happiness, everything is just right.,Happy,High
+A profound emptiness, feeling hollow inside.,Sad,Very Low
+My fists are clenched, filled with pent-up rage.,Angry,High
+Just working on my laptop, deeply focused.,Neutral,Medium
+Nervously tapping my pen, can't concentrate.,Anxious,High
+Feeling ecstatic and buzzing with anticipation!,Happy,High
+Burdened by sorrow, finding it hard to breathe.,Sad,Very Low
+Absolutely disgusted by the behavior, can't stand it.,Angry,High
+Zoning out, just letting my thoughts drift.,Neutral,Low
+A constant feeling of low-level anxiety.,Anxious,Low
+Grateful for the little things, feeling warm and fuzzy.,Happy,Medium
+Deeply hurt and wounded by the words.,Sad,Very Low
+Seeing red, pure unadulterated fury.,Angry,High
+Going through the motions, feeling numb inside.,Neutral,Low
+My heart is sinking with dread, a heavy feeling.,Anxious,Medium
+Filled with joy and optimism for a bright future.,Happy,High
+A sense of quiet desperation, seeking peace.,Sad,Low
+Furious about the broken promises and lies.,Angry,High
+Just watching the news, absorbing the information.,Neutral,Medium
+Feeling an internal tremor, on high alert.,Anxious,High
+Smiling for no reason, just pure happiness flowing.,Happy,High
+Lost in a sea of despair, no rescue in sight.,Sad,Very Low
+Boiling mad, ready to lash out at anything.,Angry,High
+Just having a cup of coffee, feeling relaxed and content.,Neutral,Low
+My chest feels tight, struggling to get a full breath.,Anxious,High
+Feeling cheerful and vibrant, ready for challenges.,Happy,Medium
+Wallowing in self-pity, can't seem to move on.,Sad,Low
+Outraged by the unfairness, burning with anger.,Angry,High
+Washing dishes, feeling meditative and calm.,Neutral,Low
+Restless energy, needing to move and do something.,Anxious,High
+Bouncing off the walls, so much energy I could burst!,Happy,High
+A deep, lingering sadness in the pit of my stomach.,Sad,Very Low
+Fuming and muttering under my breath, frustrated.,Angry,Medium
+Waiting for an important email, feeling impatient.,Neutral,Medium
+Every small noise makes me jump, feeling very jumpy.,Anxious,High
+Pure bliss, feeling absolutely amazing and carefree.,Happy,High
+The sorrow is overwhelming, can't possibly cope.,Sad,Very Low
+My voice is rising, feeling incredibly angry and loud.,Angry,High
+Looking out the window, observing the world go by.,Neutral,Low
+A sense of impending doom, cannot shake it.,Anxious,High
+Feeling light as a feather, so much joy and lightness!,Happy,High
+Wishing I could disappear, feeling so alone and unseen.,Sad,Very Low
+Seeing red, completely consumed by anger.,Angry,High
+Just scrolling through social media, no strong reaction.,Neutral,Low
+My thoughts are spiraling, can't control the negativity.,Anxious,High
+Vibrant and alive, bursting with positive energy!,Happy,High
+A heavy heart, burdened by immense grief.,Sad,Very Low
+My jaw is tight, ready for a heated confrontation.,Angry,High
+Taking a short break, feeling indifferent about it.,Neutral,Low
+Feeling jumpy and paranoid, always looking over my shoulder.,Anxious,High
+Overflowing with happiness, joy bubbling over!,Happy,High
+A quiet sadness has settled deep within me.,Sad,Low
+Absolutely furious at the turn of events.,Angry,High
+Just existing, no particular feelings one way or another.,Neutral,Low
+My breath is short and shallow, feeling very panicky.,Anxious,High
+Filled with immense joy and profound gratitude.,Happy,High
+Profoundly sad, tears streaming down my face.,Sad,Very Low
+Utterly enraged by the betrayal and deceit.,Angry,High
+Doing mundane tasks, feeling apathetic about them.,Neutral,Medium
+My mind is fixated on negative scenarios and outcomes.,Anxious,Medium
+Feeling incredibly blessed and deeply content.,Happy,Medium
+A sense of melancholic peace, accepting sadness.,Sad,Low
+Ready to burst with uncontrolled anger!,Angry,High
+Just taking notes in a meeting, focused on the details.,Neutral,Medium
+Trembling with nerves, unable to steady my hands.,Anxious,High
+Beaming from ear to ear, life is an absolute joy!,Happy,High
+Lost in sorrow, unable to find my way back.,Sad,Very Low
+My temper is soaring, reaching its boiling point.,Angry,High
+Listening to a podcast, simply passing the time.,Neutral,Low
+A persistent feeling of unease in my gut.,Anxious,Low
+Dancing with joy, celebrating every little victory!,Happy,High
+Feeling utterly desolate and completely heartbroken.,Sad,Very Low
+Incensed by the disrespect shown, it's unacceptable.,Angry,High
+Simply sitting, observing the world without judgment.,Neutral,Low
+My heart is racing, filled with sheer terror.,Anxious,High
+Euphoric and absolutely thrilled beyond words!,Happy,High
+A deep sense of emptiness inside, feeling hollow.,Sad,Very Low
+My blood runs cold with a surge of anger.,Angry,High
+Reading a book, fully absorbed in the story's world.,Neutral,Medium
+Feeling a low thrum of anxiety beneath the surface.,Anxious,Low
+Giddy with delight, can't stop grinning and laughing!,Happy,High
+A wave of melancholy washing over me, soft and sad.,Sad,Low
+Fuming with indignation, my blood is boiling!,Angry,High
+Just had a refreshing shower, feeling clean and renewed.,Neutral,Medium
+My thoughts are racing, can't settle down to sleep.,Anxious,High
+Radiating happiness, everything in life feels perfect!,Happy,High
+Consuming sadness, cannot escape its grip.,Sad,Very Low
+I'm so mad, I could just scream and break something!,Angry,High
+Looking at the ceiling, thinking about absolutely nothing.,Neutral,Low
+Feeling a constant tightness in my chest, heavy with worry.,Anxious,Medium
+Filled with cheerfulness and boundless hope for the future.,Happy,Medium
+Overwhelmed by sadness, struggling desperately to cope.,Sad,Very Low
+Raging with fury, an uncontrollable burst of anger.,Angry,High
+Doing some light stretching, feeling a bit more relaxed.,Neutral,Medium
+My mind is replaying worries over and over again, a loop.,Anxious,High
+Absolutely buzzing with excitement, can't contain it!,Happy,High
+A quiet sadness that lingers in the background of my day.,Sad,Low
+My jaw is clenched, ready for a heated confrontation.,Angry,High
+Just sitting quietly, no particular mood or feeling.,Neutral,Low
+Pacing nervously, unable to settle down or relax.,Anxious,High
+Joyful and energetic, ready to tackle any challenge!,Happy,High
+A profound sense of loneliness, feeling isolated.,Sad,Very Low
+Burning with resentment, unable to forgive or forget.,Angry,Medium
+Drinking a cup of tea, feeling calm and centered.,Neutral,Medium
+Feeling very jumpy and constantly on edge.,Anxious,High
+Bouncing off the walls, I have so much energy!,Happy,High
+A deep, lingering sadness in my heart that won't fade.,Sad,Very Low
+Fuming and muttering to myself in irritation.,Angry,Medium
+Waiting for a call, feeling a mix of expectation and nerves.,Neutral,Medium
+Every small sound makes me jump, constantly on high alert.,Anxious,High
+Pure bliss, feeling absolutely wonderful and at peace.,Happy,High
+The sorrow is overwhelming, I can't bear this pain.,Sad,Very Low
+My voice is rising, feeling incredibly angry and loud.,Angry,High
+Looking out the window, simply observing the world outside.,Neutral,Low
+A sense of impending doom, can't shake this feeling.,Anxious,High
+Feeling light as a feather, so much joy and lightness!,Happy,High
+Wishing I could disappear, feeling so alone and invisible.,Sad,Very Low
+Seeing red, absolutely enraged and ready to explode.,Angry,High
+Just scrolling social media, mindlessly passing time.,Neutral,Low
+My thoughts are spiraling, can't control them at all.,Anxious,High
+Vibrant and alive, full of positive energy and excitement!,Happy,High
+A heavy heart, burdened by immense grief and loss.,Sad,Very Low
+My jaw is tight, ready to confront someone or something.,Angry,High
+Taking a break, feeling nothing much at all.,Neutral,Low
+Feeling jumpy and paranoid, always looking over my shoulder.,Anxious,High
+Overflowing with happiness, can't contain this joy!,Happy,High
+A quiet sadness has settled in, a gentle melancholy.,Sad,Low
+Absolutely furious at the situation, utterly disgusted.,Angry,High
+Just existing, no strong feelings one way or another.,Neutral,Low
+My breath is short and shallow, feeling very panicky and stressed.,Anxious,High
+Filled with immense joy and deep gratitude for everything.,Happy,High
+Profoundly sad, can't stop the tears from falling.,Sad,Very Low
+Utterly enraged by the betrayal and lies.,Angry,High
+Doing mundane tasks, feeling completely indifferent.,Neutral,Medium
+My mind is fixated on negative thoughts and worries.,Anxious,Medium
+Feeling incredibly blessed and deeply content with life.,Happy,Medium
+A sense of melancholic peace, accepting the sadness.,Sad,Low
+Ready to burst with uncontrolled anger and frustration!,Angry,High
+Just taking notes in a meeting, focused and attentive.,Neutral,Medium
+Trembling with nerves, unable to control my shaking hands.,Anxious,High
+Beaming from ear to ear, life feels like an absolute joy!,Happy,High
+Lost in sorrow, unable to find my way back to happiness.,Sad,Very Low
+My temper is soaring, reaching its absolute peak.,Angry,High
+Listening to a podcast, simply passing the time peacefully.,Neutral,Low
+A persistent feeling of unease in my gut, won't go away.,Anxious,Low
+Dancing with joy, celebrating every little victory!,Happy,High
+Feeling utterly desolate and completely heartbroken.,Sad,Very Low
+Incensed by the disrespect shown, it's absolutely unacceptable.,Angry,High
+Simply sitting, observing the world without judgment or emotion.,Neutral,Low
+My heart is racing, filled with sheer terror and fear.,Anxious,High
+Euphoric and absolutely thrilled beyond words!,Happy,High
+A deep sense of emptiness inside, feeling hollow and vacant.,Sad,Very Low
+My blood runs cold with a sudden surge of anger.,Angry,High
+Reading a book, fully absorbed in the story's world.,Neutral,Medium
+Feeling a low thrum of anxiety beneath the surface.,Anxious,Low
+Giddy with delight, can't stop grinning and laughing!,Happy,High
+A wave of melancholy washing over me, soft and sad.,Sad,Low
+Fuming with indignation, my blood is boiling!,Angry,High
+Just had a refreshing shower, feeling clean and renewed.,Neutral,Medium
+My thoughts are racing, can't settle down to sleep.,Anxious,High
+Radiating happiness, everything in life feels perfect!,Happy,High
+Consuming sadness, cannot escape its grip.,Sad,Very Low
+I'm so mad, I could just scream and break something!,Angry,High
+Looking at the ceiling, thinking about absolutely nothing.,Neutral,Low
+Feeling a constant tightness in my chest, heavy with worry.,Anxious,Medium
+Filled with cheerfulness and boundless hope for the future.,Happy,Medium
+Overwhelmed by sadness, struggling desperately to cope.,Sad,Very Low
+Raging with fury, an uncontrollable burst of anger.,Angry,High
+Doing some light stretching, feeling a bit more relaxed.,Neutral,Medium
+My mind is replaying worries over and over again, a loop.,Anxious,High
+Absolutely buzzing with excitement, can't contain it!,Happy,High
+A quiet sadness that lingers in the background of my day.,Sad,Low
+My jaw is clenched, ready for a heated confrontation.,Angry,High
+Just sitting quietly, no particular mood or feeling.,Neutral,Low
+Pacing nervously, unable to settle down or relax.,Anxious,High
+Joyful and energetic, ready to tackle any challenge!,Happy,High
+A profound sense of loneliness, feeling isolated.,Sad,Very Low
+Burning with resentment, unable to forgive or forget.,Angry,Medium
+Drinking a cup of tea, feeling calm and centered.,Neutral,Medium
+Feeling very jumpy and constantly on edge.,Anxious,High
+Bouncing off the walls, I have so much energy!,Happy,High
+A deep, lingering sadness in my heart that won't fade.,Sad,Very Low
+Fuming and muttering to myself in irritation.,Angry,Medium
+Waiting for a call, feeling a mix of expectation and nerves.,Neutral,Medium
+Every small sound makes me jump, constantly on high alert.,Anxious,High
+Pure bliss, feeling absolutely wonderful and at peace.,Happy,High
+The sorrow is overwhelming, I can't bear this pain.,Sad,Very Low
+My voice is rising, feeling incredibly angry and loud.,Angry,High
+Looking out the window, simply observing the world outside.,Neutral,Low
+A sense of impending doom, can't shake this feeling.,Anxious,High
+Feeling light as a feather, so much joy and lightness!,Happy,High
+Wishing I could disappear, feeling so alone and invisible.,Sad,Very Low
+Seeing red, absolutely enraged and ready to explode.,Angry,High
+Just scrolling social media, mindlessly passing time.,Neutral,Low
+My thoughts are spiraling, can't control them at all.,Anxious,High
+Vibrant and alive, full of positive energy and excitement!,Happy,High
+A heavy heart, burdened by immense grief and loss.,Sad,Very Low
+My jaw is tight, ready to confront someone or something.,Angry,High
+Taking a break, feeling nothing much at all.,Neutral,Low
+Feeling jumpy and paranoid, always looking over my shoulder.,Anxious,High
+Overflowing with happiness, can't contain this joy!,Happy,High
+A quiet sadness has settled in, a gentle melancholy.,Sad,Low
+Absolutely furious at the situation, utterly disgusted.,Angry,High
+Just existing, no strong feelings one way or another.,Neutral,Low
+My breath is short and shallow, feeling very panicky and stressed.,Anxious,High
+Filled with immense joy and deep gratitude for everything.,Happy,High
+Profoundly sad, can't stop the tears from falling.,Sad,Very Low
+Utterly enraged by the betrayal and lies.,Angry,High
+Doing mundane tasks, feeling completely indifferent.,Neutral,Medium
+My mind is fixated on negative thoughts and worries.,Anxious,Medium
+Feeling incredibly blessed and deeply content with life.,Happy,Medium
+A sense of melancholic peace, accepting the sadness.,Sad,Low
+Ready to burst with uncontrolled anger and frustration!,Angry,High
+Just taking notes in a meeting, focused and attentive.,Neutral,Medium
+Trembling with nerves, unable to control my shaking hands.,Anxious,High
+Beaming from ear to ear, life feels like an absolute joy!,Happy,High
+Lost in sorrow, unable to find my way back to happiness.,Sad,Very Low
+My temper is soaring, reaching its absolute peak.,Angry,High
+Listening to a podcast, simply passing the time peacefully.,Neutral,Low
+A persistent feeling of unease in my gut, won't go away.,Anxious,Low
+Dancing with joy, celebrating every little victory!,Happy,High
+Feeling utterly desolate and completely heartbroken.,Sad,Very Low
+Incensed by the disrespect shown, it's absolutely unacceptable.,Angry,High
+Simply sitting, observing the world without judgment or emotion.,Neutral,Low
+My heart is racing, filled with sheer terror and fear.,Anxious,High
+Euphoric and absolutely thrilled beyond words!,Happy,High
+A deep sense of emptiness inside, feeling hollow and vacant.,Sad,Very Low
+My blood runs cold with a sudden surge of anger.,Angry,High
+Reading a book, fully absorbed in the story's world.,Neutral,Medium
+Feeling a low thrum of anxiety beneath the surface.,Anxious,Low
+Giddy with delight, can't stop grinning and laughing!,Happy,High
+A wave of melancholy washing over me, soft and sad.,Sad,Low
+Fuming with indignation, my blood is boiling!,Angry,High
+Just had a refreshing shower, feeling clean and renewed.,Neutral,Medium
+My thoughts are racing, can't settle down to sleep.,Anxious,High
+Radiating happiness, everything in life feels perfect!,Happy,High
+Consuming sadness, cannot escape its grip.,Sad,Very Low
+I'm so mad, I could just scream and break something!,Angry,High
+Looking at the ceiling, thinking about absolutely nothing.,Neutral,Low
+Feeling a constant tightness in my chest, heavy with worry.,Anxious,Medium
+Filled with cheerfulness and boundless hope for the future.,Happy,Medium
+Overwhelmed by sadness, struggling desperately to cope.,Sad,Very Low
+Raging with fury, an uncontrollable burst of anger.,Angry,High
+Doing some light stretching, feeling a bit more relaxed.,Neutral,Medium
+My mind is replaying worries over and over again, a loop.,Anxious,High
+Absolutely buzzing with excitement, can't contain it!,Happy,High
+A quiet sadness that lingers in the background of my day.,Sad,Low
+My jaw is clenched, ready for a heated confrontation.,Angry,High
+Just sitting quietly, no particular mood or feeling.,Neutral,Low
+Pacing nervously, unable to settle down or relax.,Anxious,High
+Joyful and energetic, ready to tackle any challenge!,Happy,High
+A profound sense of loneliness, feeling isolated.,Sad,Very Low
+Burning with resentment, unable to forgive or forget.,Angry,Medium
+Drinking a cup of tea, feeling calm and centered.,Neutral,Medium
+Feeling very jumpy and constantly on edge.,Anxious,High
+Bouncing off the walls, I have so much energy!,Happy,High
+A deep, lingering sadness in my heart that won't fade.,Sad,Very Low
+Fuming and muttering to myself in irritation.,Angry,Medium
+Waiting for a call, feeling a mix of expectation and nerves.,Neutral,Medium
+Every small sound makes me jump, constantly on high alert.,Anxious,High
+Pure bliss, feeling absolutely wonderful and at peace.,Happy,High
+The sorrow is overwhelming, I can't bear this pain.,Sad,Very Low
+My voice is rising, feeling incredibly angry and loud.,Angry,High
+Looking out the window, simply observing the world outside.,Neutral,Low
+A sense of impending doom, can't shake this feeling.,Anxious,High
+Feeling light as a feather, so much joy and lightness!,Happy,High
+Wishing I could disappear, feeling so alone and invisible.,Sad,Very Low
+Seeing red, absolutely enraged and ready to explode.,Angry,High
+Just scrolling social media, mindlessly passing time.,Neutral,Low
+My thoughts are spiraling, can't control them at all.,Anxious,High
+Vibrant and alive, full of positive energy and excitement!,Happy,High
+A heavy heart, burdened by immense grief and loss.,Sad,Very Low
+My jaw is tight, ready to confront someone or something.,Angry,High
+Taking a break, feeling nothing much at all.,Neutral,Low
+Feeling jumpy and paranoid, always looking over my shoulder.,Anxious,High
+Overflowing with happiness, can't contain this joy!,Happy,High
+A quiet sadness has settled in, a gentle melancholy.,Sad,Low
+Absolutely furious at the situation, utterly disgusted.,Angry,High
+Just existing, no strong feelings one way or another.,Neutral,Low
+My breath is short and shallow, feeling very panicky and stressed.,Anxious,High
+Filled with immense joy and deep gratitude for everything.,Happy,High
+Profoundly sad, can't stop the tears from falling.,Sad,Very Low
+Utterly enraged by the betrayal and lies.,Angry,High
+Doing mundane tasks, feeling completely indifferent.,Neutral,Medium
+My mind is fixated on negative thoughts and worries.,Anxious,Medium
+Feeling incredibly blessed and deeply content with life.,Happy,Medium
+A sense of melancholic peace, accepting the sadness.,Sad,Low
+Ready to burst with uncontrolled anger and frustration!,Angry,High
+Just taking notes in a meeting, focused and attentive.,Neutral,Medium
+Trembling with nerves, unable to control my shaking hands.,Anxious,High
+Beaming from ear to ear, life feels like an absolute joy!,Happy,High
+Lost in sorrow, unable to find my way back to happiness.,Sad,Very Low
+My temper is soaring, reaching its absolute peak.,Angry,High
+Listening to a podcast, simply passing the time peacefully.,Neutral,Low
+A persistent feeling of unease in my gut, won't go away.,Anxious,Low
+Dancing with joy, celebrating every little victory!,Happy,High
+Feeling utterly desolate and completely heartbroken.,Sad,Very Low
+Incensed by the disrespect shown, it's absolutely unacceptable.,Angry,High
+Simply sitting, observing the world without judgment or emotion.,Neutral,Low
+My heart is racing, filled with sheer terror and fear.,Anxious,High
+Euphoric and absolutely thrilled beyond words!,Happy,High
+A deep sense of emptiness inside, feeling hollow and vacant.,Sad,Very Low
+My blood runs cold with a sudden surge of anger.,Angry,High
+Reading a book, fully absorbed in the story's world.,Neutral,Medium
+Feeling a low thrum of anxiety beneath the surface.,Anxious,Low
+Giddy with delight, can't stop grinning and laughing!,Happy,High
+A wave of melancholy washing over me, soft and sad.,Sad,Low
+Fuming with indignation, my blood is boiling!,Angry,High
+Just had a refreshing shower, feeling clean and renewed.,Neutral,Medium
+My thoughts are racing, can't settle down to sleep.,Anxious,High
+Radiating happiness, everything in life feels perfect!,Happy,High
+Consuming sadness, cannot escape its grip.,Sad,Very Low
+I'm so mad, I could just scream and break something!,Angry,High
+Looking at the ceiling, thinking about absolutely nothing.,Neutral,Low
+Feeling a constant tightness in my chest, heavy with worry.,Anxious,Medium
+Filled with cheerfulness and boundless hope for the future.,Happy,Medium
+Overwhelmed by sadness, struggling desperately to cope.,Sad,Very Low
+Raging with fury, an uncontrollable burst of anger.,Angry,High
+Doing some light stretching, feeling a bit more relaxed.,Neutral,Medium
+My mind is replaying worries over and over again, a loop.,Anxious,High
+Absolutely buzzing with excitement, can't contain it!,Happy,High
+A quiet sadness that lingers in the background of my day.,Sad,Low
+My jaw is clenched, ready for a heated confrontation.,Angry,High
+Just sitting quietly, no particular mood or feeling.,Neutral,Low
+Pacing nervously, unable to settle down or relax.,Anxious,High
+Joyful and energetic, ready to tackle any challenge!,Happy,High
+A profound sense of loneliness, feeling isolated.,Sad,Very Low
+Burning with resentment, unable to forgive or forget.,Angry,Medium
+Drinking a cup of tea, feeling calm and centered.,Neutral,Medium
+Feeling very jumpy and constantly on edge.,Anxious,High
+Bouncing off the walls, I have so much energy!,Happy,High
+A deep, lingering sadness in my heart that won't fade.,Sad,Very Low
+Fuming and muttering to myself in irritation.,Angry,Medium
+Waiting for a call, feeling a mix of expectation and nerves.,Neutral,Medium
+Every small sound makes me jump, constantly on high alert.,Anxious,High
+Pure bliss, feeling absolutely wonderful and at peace.,Happy,High
+The sorrow is overwhelming, I can't bear this pain.,Sad,Very Low
+My voice is rising, feeling incredibly angry and loud.,Angry,High
+Looking out the window, simply observing the world outside.,Neutral,Low
+A sense of impending doom, can't shake this feeling.,Anxious,High
+Feeling light as a feather, so much joy and lightness!,Happy,High
+Wishing I could disappear, feeling so alone and invisible.,Sad,Very Low
+Seeing red, absolutely enraged and ready to explode.,Angry,High
+Just scrolling social media, mindlessly passing time.,Neutral,Low
+My thoughts are spiraling, can't control them at all.,Anxious,High
+Vibrant and alive, full of positive energy and excitement!,Happy,High
+A heavy heart, burdened by immense grief and loss.,Sad,Very Low
+My jaw is tight, ready to confront someone or something.,Angry,High
+Taking a break, feeling nothing much at all.,Neutral,Low
+Feeling jumpy and paranoid, always looking over my shoulder.,Anxious,High
+Overflowing with happiness, can't contain this joy!,Happy,High
+A quiet sadness has settled in, a gentle melancholy.,Sad,Low
+Absolutely furious at the situation, utterly disgusted.,Angry,High
+Just existing, no strong feelings one way or another.,Neutral,Low
+My breath is short and shallow, feeling very panicky and stressed.,Anxious,High
+Filled with immense joy and deep gratitude for everything.,Happy,High
+Profoundly sad, can't stop the tears from falling.,Sad,Very Low
+Utterly enraged by the betrayal and lies.,Angry,High
+Doing mundane tasks, feeling completely indifferent.,Neutral,Medium
+My mind is fixated on negative thoughts and worries.,Anxious,Medium
+Feeling incredibly blessed and deeply content with life.,Happy,Medium
+A sense of melancholic peace, accepting the sadness.,Sad,Low
+Ready to burst with uncontrolled anger and frustration!,Angry,High
+Just taking notes in a meeting, focused and attentive.,Neutral,Medium
+Trembling with nerves, unable to control my shaking hands.,Anxious,High
+Beaming from ear to ear, life feels like an absolute joy!,Happy,High
+Lost in sorrow, unable to find my way back to happiness.,Sad,Very Low
+My temper is soaring, reaching its absolute peak.,Angry,High
+Listening to a podcast, simply passing the time peacefully.,Neutral,Low
+A persistent feeling of unease in my gut, won't go away.,Anxious,Low
+Dancing with joy, celebrating every little victory!,Happy,High
+Feeling utterly desolate and completely heartbroken.,Sad,Very Low
+Incensed by the disrespect shown, it's absolutely unacceptable.,Angry,High
+Simply sitting, observing the world without judgment or emotion.,Neutral,Low
+My heart is racing, filled with sheer terror and fear.,Anxious,High
+Euphoric and absolutely thrilled beyond words!,Happy,High
+A deep sense of emptiness inside, feeling hollow and vacant.,Sad,Very Low
+My blood runs cold with a sudden surge of anger.,Angry,High
+Reading a book, fully absorbed in the story's world.,Neutral,Medium
+Feeling a low thrum of anxiety beneath the surface.,Anxious,Low
+Giddy with delight, can't stop grinning and laughing!,Happy,High
+A wave of melancholy washing over me, soft and sad.,Sad,Low
+Fuming with indignation, my blood is boiling!,Angry,High
+Just had a refreshing shower, feeling clean and renewed.,Neutral,Medium
+My thoughts are racing, can't settle down to sleep.,Anxious,High
+Radiating happiness, everything in life feels perfect!,Happy,High
+Consuming sadness, cannot escape its grip.,Sad,Very Low
+I'm so mad, I could just scream and break something!,Angry,High
+Looking at the ceiling, thinking about absolutely nothing.,Neutral,Low
+Feeling a constant tightness in my chest, heavy with worry.,Anxious,Medium
+Filled with cheerfulness and boundless hope for the future.,Happy,Medium
+Overwhelmed by sadness, struggling desperately to cope.,Sad,Very Low
+Raging with fury, an uncontrollable burst of anger.,Angry,High
+Doing some light stretching, feeling a bit more relaxed.,Neutral,Medium
+My mind is replaying worries over and over again, a loop.,Anxious,High
+Absolutely buzzing with excitement, can't contain it!,Happy,High
+A quiet sadness that lingers in the background of my day.,Sad,Low
+My jaw is clenched, ready for a heated confrontation.,Angry,High
+Just sitting quietly, no particular mood or feeling.,Neutral,Low
+Pacing nervously, unable to settle down or relax.,Anxious,High
+Joyful and energetic, ready to tackle any challenge!,Happy,High
+A profound sense of loneliness, feeling isolated.,Sad,Very Low
+Burning with resentment, unable to forgive or forget.,Angry,Medium
+Drinking a cup of tea, feeling calm and centered.,Neutral,Medium
+Feeling very jumpy and constantly on edge.,Anxious,High
+Bouncing off the walls, I have so much energy!,Happy,High
+A deep, lingering sadness in my heart that won't fade.,Sad,Very Low
+Fuming and muttering to myself in irritation.,Angry,Medium
+Waiting for a call, feeling a mix of expectation and nerves.,Neutral,Medium
+Every small sound makes me jump, constantly on high alert.,Anxious,High
+Pure bliss, feeling absolutely wonderful and at peace.,Happy,High
+The sorrow is overwhelming, I can't bear this pain.,Sad,Very Low
+My voice is rising, feeling incredibly angry and loud.,Angry,High
+Looking out the window, simply observing the world outside.,Neutral,Low
+A sense of impending doom, can't shake this feeling.,Anxious,High
+Feeling light as a feather, so much joy and lightness!,Happy,High
+Wishing I could disappear, feeling so alone and invisible.,Sad,Very Low
+Seeing red, absolutely enraged and ready to explode.,Angry,High
+Just scrolling social media, mindlessly passing time.,Neutral,Low
+My thoughts are spiraling, can't control them at all.,Anxious,High
+Vibrant and alive, full of positive energy and excitement!,Happy,High
+A heavy heart, burdened by immense grief and loss.,Sad,Very Low
+My jaw is tight, ready to confront someone or something.,Angry,High
+Taking a break, feeling nothing much at all.,Neutral,Low
+Feeling jumpy and paranoid, always looking over my shoulder.,Anxious,High
+Overflowing with happiness, can't contain this joy!,Happy,High
+A quiet sadness has settled in, a gentle melancholy.,Sad,Low
+Absolutely furious at the situation, utterly disgusted.,Angry,High
+Just existing, no strong feelings one way or another.,Neutral,Low
+My breath is short and shallow, feeling very panicky and stressed.,Anxious,High
+Filled with immense joy and deep gratitude for everything.,Happy,High
+Profoundly sad, can't stop the tears from falling.,Sad,Very Low
+Utterly enraged by the betrayal and lies.,Angry,High
+Doing mundane tasks, feeling completely indifferent.,Neutral,Medium
+My mind is fixated on negative thoughts and worries.,Anxious,Medium
+Feeling incredibly blessed and deeply content with life.,Happy,Medium
+A sense of melancholic peace, accepting the sadness.,Sad,Low
+Ready to burst with uncontrolled anger and frustration!,Angry,High
+Just taking notes in a meeting, focused and attentive.,Neutral,Medium
+Trembling with nerves, unable to control my shaking hands.,Anxious,High
+Beaming from ear to ear, life feels like an absolute joy!,Happy,High
+Lost in sorrow, unable to find my way back to happiness.,Sad,Very Low
+My temper is soaring, reaching its absolute peak.,Angry,High
+Listening to a podcast, simply passing the time peacefully.,Neutral,Low
+A persistent feeling of unease in my gut, won't go away.,Anxious,Low
+Dancing with joy, celebrating every little victory!,Happy,High
+Feeling utterly desolate and completely heartbroken.,Sad,Very Low
+Incensed by the disrespect shown, it's absolutely unacceptable.,Angry,High
+Simply sitting, observing the world without judgment or emotion.,Neutral,Low
+My heart is racing, filled with sheer terror and fear.,Anxious,High
+Euphoric and absolutely thrilled beyond words!,Happy,High
+A deep sense of emptiness inside, feeling hollow and vacant.,Sad,Very Low
+My blood runs cold with a sudden surge of anger.,Angry,High
+Reading a book, fully absorbed in the story's world.,Neutral,Medium
+Feeling a low thrum of anxiety beneath the surface.,Anxious,Low
+Giddy with delight, can't stop grinning and laughing!,Happy,High
+A wave of melancholy washing over me, soft and sad.,Sad,Low
+Fuming with indignation, my blood is boiling!,Angry,High
+Just had a refreshing shower, feeling clean and renewed.,Neutral,Medium
+My thoughts are racing, can't settle down to sleep.,Anxious,High
+Radiating happiness, everything in life feels perfect!,Happy,High
+Consuming sadness, cannot escape its grip.,Sad,Very Low
+I'm so mad, I could just scream and break something!,Angry,High
+Looking at the ceiling, thinking about absolutely nothing.,Neutral,Low
+Feeling a constant tightness in my chest, heavy with worry.,Anxious,Medium
+Filled with cheerfulness and boundless hope for the future.,Happy,Medium
+Overwhelmed by sadness, struggling desperately to cope.,Sad,Very Low
+Raging with fury, an uncontrollable burst of anger.,Angry,High
+Doing some light stretching, feeling a bit more relaxed.,Neutral,Medium
+My mind is replaying worries over and over again, a loop.,Anxious,High
+Absolutely buzzing with excitement, can't contain it!,Happy,High
+A quiet sadness that lingers in the background of my day.,Sad,Low
+My jaw is clenched, ready for a heated confrontation.,Angry,High
+Just sitting quietly, no particular mood or feeling.,Neutral,Low
+Pacing nervously, unable to settle down or relax.,Anxious,High
+Joyful and energetic, ready to tackle any challenge!,Happy,High
+A profound sense of loneliness, feeling isolated.,Sad,Very Low
+Burning with resentment, unable to forgive or forget.,Angry,Medium
+Drinking a cup of tea, feeling calm and centered.,Neutral,Medium
+Feeling very jumpy and constantly on edge.,Anxious,High
+Bouncing off the walls, I have so much energy!,Happy,High
+A deep, lingering sadness in my heart that won't fade.,Sad,Very Low
+Fuming and muttering to myself in irritation.,Angry,Medium
+Waiting for a call, feeling a mix of expectation and nerves.,Neutral,Medium
+Every small sound makes me jump, constantly on high alert.,Anxious,High
+Pure bliss, feeling absolutely wonderful and at peace.,Happy,High
+The sorrow is overwhelming, I can't bear this pain.,Sad,Very Low
+My voice is rising, feeling incredibly angry and loud.,Angry,High
+Looking out the window, simply observing the world outside.,Neutral,Low
+A sense of impending doom, can't shake this feeling.,Anxious,High
+Feeling light as a feather, so much joy and lightness!,Happy,High
+Wishing I could disappear, feeling so alone and invisible.,Sad,Very Low
+Seeing red, absolutely enraged and ready to explode.,Angry,High
+Just scrolling social media, mindlessly passing time.,Neutral,Low
+My thoughts are spiraling, can't control them at all.,Anxious,High
+Vibrant and alive, full of positive energy and excitement!,Happy,High
+A heavy heart, burdened by immense grief and loss.,Sad,Very Low
+My jaw is tight, ready to confront someone or something.,Angry,High
+Taking a break, feeling nothing much at all.,Neutral,Low
+Feeling jumpy and paranoid, always looking over my shoulder.,Anxious,High
+Overflowing with happiness, can't contain this joy!,Happy,High
+A quiet sadness has settled in, a gentle melancholy.,Sad,Low
+Absolutely furious at the situation, utterly disgusted.,Angry,High
+Just existing, no strong feelings one way or another.,Neutral,Low
+My breath is short and shallow, feeling very panicky and stressed.,Anxious,High
+Filled with immense joy and deep gratitude for everything.,Happy,High
+Profoundly sad, can't stop the tears from falling.,Sad,Very Low
+Utterly enraged by the betrayal and lies.,Angry,High
+Doing mundane tasks, feeling completely indifferent.,Neutral,Medium
+My mind is fixated on negative thoughts and worries.,Anxious,Medium
+Feeling incredibly blessed and deeply content with life.,Happy,Medium
+A sense of melancholic peace, accepting the sadness.,Sad,Low
+Ready to burst with uncontrolled anger and frustration!,Angry,High
+Just taking notes in a meeting, focused and attentive.,Neutral,Medium
+Trembling with nerves, unable to control my shaking hands.,Anxious,High
+Beaming from ear to ear, life feels like an absolute joy!,Happy,High
+Lost in sorrow, unable to find my way back to happiness.,Sad,Very Low
+My temper is soaring, reaching its absolute peak.,Angry,High
+Listening to a podcast, simply passing the time peacefully.,Neutral,Low
+A persistent feeling of unease in my gut, won't go away.,Anxious,Low
+Dancing with joy, celebrating every little victory!,Happy,High
+Feeling utterly desolate and completely heartbroken.,Sad,Very Low
+Incensed by the disrespect shown, it's absolutely unacceptable.,Angry,High
+Simply sitting, observing the world without judgment or emotion.,Neutral,Low
+My heart is racing, filled with sheer terror and fear.,Anxious,High
+Euphoric and absolutely thrilled beyond words!,Happy,High
+A deep sense of emptiness inside, feeling hollow and vacant.,Sad,Very Low
+My blood runs cold with a sudden surge of anger.,Angry,High
+Reading a book, fully absorbed in the story's world.,Neutral,Medium
+Feeling a low thrum of anxiety beneath the surface.,Anxious,Low
+Giddy with delight, can't stop grinning and laughing!,Happy,High
+A wave of melancholy washing over me, soft and sad.,Sad,Low
+Fuming with indignation, my blood is boiling!,Angry,High
+Just had a refreshing shower, feeling clean and renewed.,Neutral,Medium
+My thoughts are racing, can't settle down to sleep.,Anxious,High
+Radiating happiness, everything in life feels perfect!,Happy,High
+Consuming sadness, cannot escape its grip.,Sad,Very Low
+I'm so mad, I could just scream and break something!,Angry,High
+Looking at the ceiling, thinking about absolutely nothing.,Neutral,Low
+Feeling a constant tightness in my chest, heavy with worry.,Anxious,Medium
+Filled with cheerfulness and boundless hope for the future.,Happy,Medium
+Overwhelmed by sadness, struggling desperately to cope.,Sad,Very Low
+Raging with fury, an uncontrollable burst of anger.,Angry,High
+Doing some light stretching, feeling a bit more relaxed.,Neutral,Medium
+My mind is replaying worries over and over again, a loop.,Anxious,High
+Absolutely buzzing with excitement, can't contain it!,Happy,High
+A quiet sadness that lingers in the background of my day.,Sad,Low
+My jaw is clenched, ready for a heated confrontation.,Angry,High
+Just sitting quietly, no particular mood or feeling.,Neutral,Low
+Pacing nervously, unable to settle down or relax.,Anxious,High
+Joyful and energetic, ready to tackle any challenge!,Happy,High
+A profound sense of loneliness, feeling isolated.,Sad,Very Low
+Burning with resentment, unable to forgive or forget.,Angry,Medium
+Drinking a cup of tea, feeling calm and centered.,Neutral,Medium
+Feeling very jumpy and constantly on edge.,Anxious,High
+Bouncing off the walls, I have so much energy!,Happy,High
+A deep, lingering sadness in my heart that won't fade.,Sad,Very Low
+Fuming and muttering to myself in irritation.,Angry,Medium
+Waiting for a call, feeling a mix of expectation and nerves.,Neutral,Medium
+Every small sound makes me jump, constantly on high alert.,Anxious,High
+Pure bliss, feeling absolutely wonderful and at peace.,Happy,High
+The sorrow is overwhelming, I can't bear this pain.,Sad,Very Low
+My voice is rising, feeling incredibly angry and loud.,Angry,High
+Looking out the window, simply observing the world outside.,Neutral,Low
+A sense of impending doom, can't shake this feeling.,Anxious,High
+Feeling light as a feather, so much joy and lightness!,Happy,High
+Wishing I could disappear, feeling so alone and invisible.,Sad,Very Low
+Seeing red, absolutely enraged and ready to explode.,Angry,High
+Just scrolling social media, mindlessly passing time.,Neutral,Low
+My thoughts are spiraling, can't control them at all.,Anxious,High
+Vibrant and alive, full of positive energy and excitement!,Happy,High
+A heavy heart, burdened by immense grief and loss.,Sad,Very Low
+My jaw is tight, ready to confront someone or something.,Angry,High
+Taking a break, feeling nothing much at all.,Neutral,Low
+Feeling jumpy and paranoid, always looking over my shoulder.,Anxious,High
+Overflowing with happiness, can't contain this joy!,Happy,High
+A quiet sadness has settled in, a gentle melancholy.,Sad,Low
+Absolutely furious at the situation, utterly disgusted.,Angry,High
+Just existing, no strong feelings one way or another.,Neutral,Low
+My breath is short and shallow, feeling very panicky and stressed.,Anxious,High
+Filled with immense joy and deep gratitude for everything.,Happy,High
+Profoundly sad, can't stop the tears from falling.,Sad,Very Low
+Utterly enraged by the betrayal and lies.,Angry,High
+Doing mundane tasks, feeling completely indifferent.,Neutral,Medium
+My mind is fixated on negative thoughts and worries.,Anxious,Medium
+Feeling incredibly blessed and deeply content with life.,Happy,Medium
+A sense of melancholic peace, accepting the sadness.,Sad,Low
+Ready to burst with uncontrolled anger and frustration!,Angry,High
+Just taking notes in a meeting, focused and attentive.,Neutral,Medium
+Trembling with nerves, unable to control my shaking hands.,Anxious,High
+Beaming from ear to ear, life feels like an absolute joy!,Happy,High
+Lost in sorrow, unable to find my way back to happiness.,Sad,Very Low
+My temper is soaring, reaching its absolute peak.,Angry,High
+Listening to a podcast, simply passing the time peacefully.,Neutral,Low
+A persistent feeling of unease in my gut, won't go away.,Anxious,Low
+Dancing with joy, celebrating every little victory!,Happy,High
+Feeling utterly desolate and completely heartbroken.,Sad,Very Low
+Incensed by the disrespect shown, it's absolutely unacceptable.,Angry,High
+Simply sitting, observing the world without judgment or emotion.,Neutral,Low
+My heart is racing, filled with sheer terror and fear.,Anxious,High
+Euphoric and absolutely thrilled beyond words!,Happy,High
+A deep sense of emptiness inside, feeling hollow and vacant.,Sad,Very Low
+My blood runs cold with a sudden surge of anger.,Angry,High
+Reading a book, fully absorbed in the story's world.,Neutral,Medium
+Feeling a low thrum of anxiety beneath the surface.,Anxious,Low
+Giddy with delight, can't stop grinning and laughing!,Happy,High
+A wave of melancholy washing over me, soft and sad.,Sad,Low
+Fuming with indignation, my blood is boiling!,Angry,High
+Just had a refreshing shower, feeling clean and renewed.,Neutral,Medium
+My thoughts are racing, can't settle down to sleep.,Anxious,High
+Radiating happiness, everything in life feels perfect!,Happy,High
+Consuming sadness, cannot escape its grip.,Sad,Very Low
+I'm so mad, I could just scream and break something!,Angry,High
+Looking at the ceiling, thinking about absolutely nothing.,Neutral,Low
+Feeling a constant tightness in my chest, heavy with worry.,Anxious,Medium
+Filled with cheerfulness and boundless hope for the future.,Happy,Medium
+Overwhelmed by sadness, struggling desperately to cope.,Sad,Very Low
+Raging with fury, an uncontrollable burst of anger.,Angry,High
+Doing some light stretching, feeling a bit more relaxed.,Neutral,Medium
+My mind is replaying worries over and over again, a loop.,Anxious,High
+Absolutely buzzing with excitement, can't contain it!,Happy,High
+A quiet sadness that lingers in the background of my day.,Sad,Low
+My jaw is clenched, ready for a heated confrontation.,Angry,High
+Just sitting quietly, no particular mood or feeling.,Neutral,Low
+Pacing nervously, unable to settle down or relax.,Anxious,High
+Joyful and energetic, ready to tackle any challenge!,Happy,High
+A profound sense of loneliness, feeling isolated.,Sad,Very Low
+Burning with resentment, unable to forgive or forget.,Angry,Medium
+Drinking a cup of tea, feeling calm and centered.,Neutral,Medium
+Feeling very jumpy and constantly on edge.,Anxious,High
