@@ -78,15 +78,9 @@ def energy_model_train(energy_X_train,energy_y_train,energy_X_test,energy_y_test
     return predicted_energy
 
 def handle_whole_ml_workflow():
-    csv_data_to_train_model = pd.read_csv('dataset.csv')
-   
+    csv_data_to_train_model = pd.read_csv('dataset.csv')   
     predicted_mood , predicted_energy = handle_data_preparation_and_vectorization(csv_data_to_train_model)
-    
-
     return predicted_mood , predicted_energy
-
-
-
 
 
 def main():
@@ -94,21 +88,15 @@ def main():
     predicted_mood , predicted_energy = handle_whole_ml_workflow()
     print("Predicted mood : " , predicted_mood)
     print("Predicted energy : " , predicted_energy, "\n")
-
     organized_tasks = personalize_task_order(task_list,predicted_mood,predicted_energy)
-
 
     count = 1
     show = True
     if show :
-
         print("Suggested Task(s) from you task list :")
         for task in organized_tasks:
             print(f"Task {count}: {task['title']}")
             count += 1
-
-
-
 
 
 if __name__ == '__main__':
