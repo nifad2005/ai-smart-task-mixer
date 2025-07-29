@@ -14,7 +14,7 @@ def shuffle_tasks(task_list):
 def personalize_task_order(task_list,mood,energy):
     new_order = []
     for task in task_list:
-        if task['mood'] == mood and task['energy'] == energy:
+        if task['mood'].lower() == mood and task['energy'].lower() == energy:
             new_order.append(task)
     return new_order
 
@@ -45,7 +45,10 @@ def handle_data_preparation_and_vectorization(csv_data_to_train_model):
     mood_y_test = mood_label_encoder.transform(mood_y_test)
     energy_y_test = energy_label_encoder.transform(energy_y_test)
 
-    mood_model_train(mood_X_train,mood_y_train,mood_X_test,mood_y_test,vectorizer,mood_label_encoder)
+    predicted_mood = mood_model_train(mood_X_train,mood_y_train,mood_X_test,mood_y_test,vectorizer,mood_label_encoder)
+    predicted_energy = energy_model_train(energy_X_train,energy_y_train,energy_X_test,energy_y_test,vectorizer,energy_label_encoder)
+    return predicted_mood , predicted_energy
+
 def mood_model_train(mood_X_train,mood_y_train,mood_X_test,mood_y_test,vectorizer,mood_label_encoder):
     mood_naive_bayes_model = MultinomialNB()
     mood_naive_bayes_model.fit(mood_X_train,mood_y_train)
@@ -57,19 +60,30 @@ def mood_model_train(mood_X_train,mood_y_train,mood_X_test,mood_y_test,vectorize
     text_input = vectorizer.transform([text_input])
     predicted_mood = mood_label_encoder.inverse_transform(mood_naive_bayes_model.predict(text_input))
     print(f"Predicted Mood: {predicted_mood[0]}")
+    predicted_mood = predicted_mood[0]
+    return predicted_mood 
 
-
-
-
-
-
-   
+def energy_model_train(energy_X_train,energy_y_train,energy_X_test,energy_y_test,vectorizer,energy_label_encoder):
+    energy_naive_bayes_model = MultinomialNB()
+    energy_naive_bayes_model.fit(energy_X_train,energy_y_train)
+    energy_predictions = energy_naive_bayes_model.predict(energy_X_test)
+    energy_accuracy = accuracy_score(energy_y_test,energy_predictions)
+    print(f"Energy Accuracy: {round(energy_accuracy*100,2)}%")
+    
+    text_input = input("Express your energy : ").lower()
+    text_input = vectorizer.transform([text_input])
+    predicted_energy = energy_label_encoder.inverse_transform(energy_naive_bayes_model.predict(text_input))
+    print(f"Predicted Energy: {predicted_energy[0]}")
+    predicted_energy = predicted_energy[0]
+    return predicted_energy
 
 def handle_whole_ml_workflow():
-    csv_data_to_train_model = pd.read_csv('./smart-task-mixer/dataset.csv')
-    handle_data_preparation_and_vectorization(csv_data_to_train_model)
+    csv_data_to_train_model = pd.read_csv('dataset.csv')
+   
+    predicted_mood , predicted_energy = handle_data_preparation_and_vectorization(csv_data_to_train_model)
     
 
+    return predicted_mood , predicted_energy
 
 
 
@@ -77,17 +91,21 @@ def handle_whole_ml_workflow():
 
 def main():
     # organized_tasks = shuffle_tasks(task_list)
-    organized_tasks = personalize_task_order(task_list,'Creative','Medium')
-    handle_whole_ml_workflow()
+    predicted_mood , predicted_energy = handle_whole_ml_workflow()
+    print("Predicted mood : " , predicted_mood)
+    print("Predicted energy : " , predicted_energy, "\n")
+
+    organized_tasks = personalize_task_order(task_list,predicted_mood,predicted_energy)
 
 
     count = 1
-    show = False
+    show = True
     if show :
+
+        print("Suggested Task(s) from you task list :")
         for task in organized_tasks:
             print(f"Task {count}: {task['title']}")
             count += 1
-
 
 
 

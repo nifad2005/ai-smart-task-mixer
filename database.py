@@ -1,87 +1,106 @@
-
-
 task_list = [
     {
-
-        "title": "Prepare monthly report",
-        "description": "Compile sales and performance data for the team.",
-        "priority": "High",
-        "type": "Office",
-        "energy": "Medium",
-        "mood": "Stressful"
+        "title": "Learn Something New",
+        "description": "Start an online course or read an inspiring book.",
+        "priority": "Medium",
+        "type": "Education",
+        "mood": "Happy",
+        "energy": "High"
     },
     {
-        "title": "Clean your room",
-        "description": "Organize books, clothes, and workspace.",
+        "title": "Hang Out with Friends",
+        "description": "Spend time with friends, either via video call or in person.",
+        "priority": "Medium",
+        "type": "Personal",
+        "mood": "Happy",
+        "energy": "Medium"
+    },
+    {
+        "title": "Listen to Your Favorite Music",
+        "description": "Relax and listen to your favorite songs.",
+        "priority": "Low",
+        "type": "Personal",
+        "mood": "Happy",
+        "energy": "Low"
+    },
+    {
+        "title": "Go for a Walk",
+        "description": "Take a short walk in the fresh air.",
+        "priority": "Low",
+        "type": "Personal",
+        "mood": "Sad",
+        "energy": "Low"
+    },
+    {
+        "title": "Journal Your Feelings",
+        "description": "Write down your thoughts and feelings in a diary.",
+        "priority": "Low",
+        "type": "Personal",
+        "mood": "Sad",
+        "energy": "Very Low"
+    },
+    {
+        "title": "Do Some Exercise",
+        "description": "Engage in some high-intensity exercise to help release anger.",
+        "priority": "High",
+        "type": "Personal",
+        "mood": "Angry",
+        "energy": "High"
+    },
+    {
+        "title": "Use a Stress Ball",
+        "description": "Squeeze a stress ball or something soft to help manage anger.",
+        "priority": "Medium",
+        "type": "Personal",
+        "mood": "Angry",
+        "energy": "Medium"
+    },
+    {
+        "title": "Practice Deep Breathing",
+        "description": "Do some deep breathing exercises for a few minutes.",
+        "priority": "Low",
+        "type": "Personal",
+        "mood": "Angry",
+        "energy": "Low"
+    },
+    {
+        "title": "Handle Routine Tasks",
+        "description": "Check emails or do small office tasks.",
+        "priority": "Medium",
+        "type": "Office",
+        "mood": "Neutral",
+        "energy": "Medium"
+    },
+    {
+        "title": "Organize Your Space",
+        "description": "Clean up your workspace or room.",
         "priority": "Low",
         "type": "Home",
-        "energy": "Low",
-        "mood": "Relaxing"
+        "mood": "Neutral",
+        "energy": "Low"
     },
     {
-        "title": "Read a chapter from business book",
-        "description": "Focus on leadership and decision-making.",
-        "priority": "Medium",
-        "type": "Education",
-        "energy": "Medium",
-        "mood": "Creative"
-    },
-    {
-        "title": "Fix UI bug in QUICK_B2B",
-        "description": "Resolve padding issue in mobile view.",
+        "title": "Plan Ahead",
+        "description": "Create a detailed plan for your upcoming tasks.",
         "priority": "High",
         "type": "Office",
-        "energy": "High",
-        "mood": "Stressful"
+        "mood": "Anxious",
+        "energy": "High"
     },
     {
-        "title": "Go for a nature walk",
-        "description": "Spend 30 minutes walking in fresh air.",
+        "title": "Practice Mindfulness",
+        "description": "Spend some time on mindfulness or meditation.",
+        "priority": "Medium",
+        "type": "Personal",
+        "mood": "Anxious",
+        "energy": "Medium"
+    },
+    {
+        "title": "Have a Hot Drink",
+        "description": "Relax with a cup of tea or coffee.",
         "priority": "Low",
         "type": "Personal",
-        "energy": "Low",
-        "mood": "Relaxing"
-    },
-    {
-        "title": "Sketch new landing page design",
-        "description": "Try a minimalistic layout with bold typography.",
-        "priority": "Medium",
-        "type": "Office",
-        "energy": "High",
-        "mood": "Creative"
-    },
-    {
-        "title": "Cook a healthy meal",
-        "description": "Try a new recipe with vegetables and protein.",
-        "priority": "Low",
-        "type": "Personal",
-        "energy": "Medium",
-        "mood": "Relaxing"
-    },
-    {
-        "title": "Watch a documentary",
-        "description": "Choose something educational or inspiring.",
-        "priority": "Low",
-        "type": "Education",
-        "energy": "Low",
-        "mood": "Relaxing"
-    },
-    {
-        "title": "Write blog post about NOORIX journey",
-        "description": "Share lessons learned and future vision.",
-        "priority": "Medium",
-        "type": "Office",
-        "energy": "Medium",
-        "mood": "Creative"
-    },
-    {
-        "title": "Review deep learning notes",
-        "description": "Revise key concepts and architectures.",
-        "priority": "High",
-        "type": "Education",
-        "energy": "High",
-        "mood": "Stressful"
+        "mood": "Anxious",
+        "energy": "Low"
     }
 ]
-
-
